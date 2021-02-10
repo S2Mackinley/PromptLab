@@ -1,5 +1,5 @@
 
 # LABS!
 
-[lab1](lab1.html)
-[lab2](lab2)
+[lab1](lab 1b.html)
+[lab2](lab 2)
